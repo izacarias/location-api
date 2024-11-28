@@ -1,6 +1,6 @@
-package entity
+package locationapi
 
 type Zone struct {
-	ID       int
+	ID       string
 	ZoneName string
 }
